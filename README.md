@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stefan-mastilak
-- 👀 I’m interested in Artificial Intelligence, Process Automation and Data Science
+- 👀 I’m interested in Artificial Intelligence, Process Automation and Software Robotics
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: stefan.mastilak@gmail.com
