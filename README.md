@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stefan-mastilak
 - 👀 I’m interested in Artificial Intelligence, Process Automation and Software Robotics
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning AWS and Goland
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email: stefan.mastilak@gmail.com
 
